@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT11M9.543942S" SolutionTotalViewTime="PT7M23.3311742S" SolutionTotalDebugTime="PT1M20.2983654S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT24M33.2246161S" SolutionTotalViewTime="PT10M51.1441767S" SolutionTotalDebugTime="PT1M44.9101854S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
   </FileVersion>
+  <SolutionFolder>D:\Moje Dokumenty\Visual Studio 2017\Projects\Euler_Project_Solutions_Csharp</SolutionFolder>
   <SessionTimeList />
   <LastSessionTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT1M20.2983654S" EditActiveTime="PT6M36.8176776S">
+    <DevTrackerDataItem ViewActiveTime="PT24.61182S" EditActiveTime="PT5M9.6920457S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
-      <CreatedDate>2018-03-20T09:11:14.180281+00:00</CreatedDate>
+      <CreatedDate>2018-03-25T19:10:17.2799916+01:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT6M49.3406211S" EditActiveTime="PT11M9.5434268S">
-      <ModifiedDate>2018-03-20T09:37:18.1957237+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M27.8180184S" EditActiveTime="PT13M23.6806882S">
+      <ModifiedDate>2018-03-25T19:32:19.1251445+01:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\Euler_Project_Solutions_Csharp\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\Euler_Project_Solutions_Csharp\Euler_Project_Solutions_Csharp.csproj</ProjectName>
-      <CreatedDate>2018-03-20T09:07:50.4534896+00:00</CreatedDate>
+      <CreatedDate>2018-03-25T19:09:23.6453903+01:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
   </LastSessionTimeList>
   <TotalTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT1M20.2983654S" EditActiveTime="PT6M36.8176776S">
+    <DevTrackerDataItem ViewActiveTime="PT1M44.9101854S" EditActiveTime="PT11M46.5097233S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
@@ -49,11 +50,11 @@
       <CreatedDate>2018-01-13T22:21:50.3470847+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT6M49.3366104S" EditActiveTime="PT11M9.5434268S">
-      <ModifiedDate>2018-03-20T09:37:18.1957237+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT10M17.1500852S" EditActiveTime="PT24M33.224115S">
+      <ModifiedDate>2018-03-25T19:32:19.1251445+01:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\Euler_Project_Solutions_Csharp\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\Euler_Project_Solutions_Csharp\Euler_Project_Solutions_Csharp.csproj</ProjectName>
@@ -62,6 +63,27 @@
     </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT24.61182S" EditActiveTime="PT5M9.6920457S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-03-25T19:10:17.2799916+01:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M27.8139759S" EditActiveTime="PT13M23.6806882S">
+      <ModifiedDate>2018-03-25T19:32:19.1251445+01:00</ModifiedDate>
+      <ModifiedBy>Karol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\Euler_Project_Solutions_Csharp\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\Euler_Project_Solutions_Csharp\Euler_Project_Solutions_Csharp.csproj</ProjectName>
+      <CreatedDate>2018-03-25T19:09:23.6453903+01:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT1M20.2983654S" EditActiveTime="PT6M36.8176776S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
