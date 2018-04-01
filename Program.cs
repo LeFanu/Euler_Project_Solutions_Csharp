@@ -14,6 +14,7 @@ namespace Euler_Project_Solutions_Csharp
             Console.WriteLine("Euler project 1 solution is " + MultiplesOf3And5());
             Console.WriteLine("Euler project 2 solution is " + EvenFibbonacciNumbers());
             Console.WriteLine("Euler project 3 solution is " + LargestPrimeFactor());
+            Console.WriteLine("Euler project 4 solution is " + LargestPalindromeProduct());
 
 
             Console.ReadKey();
@@ -51,19 +52,19 @@ namespace Euler_Project_Solutions_Csharp
 
         public static long LargestPrimeFactor()
         {
-            long solution = 600851475142;
-
             long prime = 600851475143;
-
-            while (solution >3)
+            long solution = 3;
+            while (solution < prime)
             {
+
                 if (prime%solution==0 && solution%2!=0)
                 {
-                    break;
+                    prime = prime / solution;
+                    solution = 3;
                 }
                 else
                 {
-                    solution--;
+                    solution++;
                 }
 
             }
@@ -71,6 +72,65 @@ namespace Euler_Project_Solutions_Csharp
             return solution;
         }
 
+        public static int LargestPalindromeProduct()
+        {
+            int solution = 0;
+            int length = 0;
+
+            int palindrome1 = 999;
+            int palindrome2 = 999;
+
+            while (palindrome1 > 800 & palindrome2 >800)
+            {
+                solution = palindrome1 * palindrome2;
+                string solCharacters = solution.ToString();
+                int solHalf = solCharacters.Length / 2;
+                if (solCharacters.Length%2 == 0)
+                {
+
+                    string temp1 = solCharacters.Substring(0, solHalf);
+                    char[] array = solCharacters.Substring(solHalf).ToCharArray();
+                        Array.Reverse(array);
+                    string temp2 = new string(array);
+                    if (temp1.Equals(temp2))
+                    {
+                        break;
+                    }
+                    
+                    if (palindrome1 > 801)
+                    {
+                        palindrome1--;
+                    }
+                    else
+                    {
+                        palindrome1 = 999;
+                        palindrome2--;
+                    }
+                }
+                else
+                {
+                    if (palindrome1 > 801)
+                    {
+                        palindrome1--;
+                    }
+                    else
+                    {
+                        palindrome1 = 999;
+                        palindrome2--;
+                    }
+                }
+            }
+
+
+            return solution;
+        }
+
+
+
+
+
+
+        //===========================================================================================================
         public static int Template()
         {
             int solution = 0;
